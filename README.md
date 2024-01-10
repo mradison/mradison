@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on comleting a Full Stack Coding Bootcamp through Arizona State University!
+- 🌱 I’m currently learning React.js and how to connect the front end and back end to make a fully functioning website!
+- 📫 How to reach me: madison.reynolds@phoenix.edu
+
+  
 <!--
 **mradison/mradison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
