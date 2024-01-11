@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on comleting a Full Stack Coding Bootcamp through Arizona State University!
+- 🔭 I’m currently working on completing a Full Stack Coding Bootcamp through Arizona State University!
 - 🌱 I’m currently learning React.js and how to connect the front end and back end to make a fully functioning website!
 - 📫 How to reach me: madison.reynolds@phoenix.edu
 
